@@ -17,10 +17,10 @@ This project demonstrates deploying an Amazon Prime clone using a set of DevOps 
 - **Prometheus & Grafana**: Monitoring and alerting tools.
 
 ## Pre-requisites
-1. **AWS Account**: Ensure you have an AWS account. [Create an AWS Account](https://docs.aws.amazon.com/accounts/latest/reference/manage-acct-creating.html)
-2. **AWS CLI**: Install AWS CLI on your local machine. [AWS CLI Installation Guide](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
-3. **VS Code (Optional)**: Download and install VS Code as a code editor. [VS Code Download](https://code.visualstudio.com/download)
-4. **Install Terraform in Windows**: Download and install Terraform in Windows [Terraform in Windows](https://learn.microsoft.com/en-us/azure/developer/terraform/get-started-windows-bash)
+1. **AWS Account**: Ensure you have an AWS account.
+2. **AWS CLI**: Install AWS CLI on your local machine.
+3. **VS Code (Optional)**: Download and install VS Code as a code editor.
+4. **Install Terraform in Windows**: Download and install Terraform in Window.
 
 ## Configuration
 ### AWS Setup
